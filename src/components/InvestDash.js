@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Button from "react-bootstrap/Button";
-import Table from "react-bootstrap/Table";
 
 const InvestDash = () => {
   const [showlist, setShowlist] = useState(false);
